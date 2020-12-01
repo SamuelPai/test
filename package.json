@@ -1,7 +1,7 @@
 {
   "name": "reactEmployeeDirectory.io",
   "version": "0.1.0",
-  "homepage": "https://AndyMMunro.github.io/reactEmployeeDirectory.io",
+  "homepage": "https://samuelpai.github.io/test/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
@@ -10,6 +10,7 @@
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
     "gh-pages": "^3.1.0",
+    "install": "^0.13.0",
     "moment": "^2.29.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
